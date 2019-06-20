@@ -1,0 +1,15 @@
+* {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+body {
+  margin: 0%;
+}
+#nav_bar {
+  height: 124px;
+  width: 100%;
+  display: flex;
+}
+#nav_links {
+  list-style: none;
+  flex-direction: row;
+}
